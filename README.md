@@ -1,0 +1,2 @@
+# yamap
+Yndex Delivery Plugin
